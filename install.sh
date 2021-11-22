@@ -10,7 +10,7 @@ chmod +x ts
 get() {
 rm -fr Luffy.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/LuffyTeam/Luffy/master/Luffy.lua"
+wget "https://raw.githubusercontent.com/LufffyTeam/Luffy/master/Luffy.lua"
 lua start.lua
 }
 installall(){
