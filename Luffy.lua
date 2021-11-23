@@ -12474,7 +12474,7 @@ send(msg.chat_id_, msg.id_,'*◊￤احصائيات البوت* \n\n◊￤عدد
 end
 if text == 'لاصدار ↝' then 
 database:del(bot_id..'Srt:Bot') 
-send(msg.chat_id_, msg.id_,'◊￤اصدار سورس* لوفي* لديك (*v1.0*) ↝')
+send(msg.chat_id_, msg.id_,'◊￤اصدار سورس* لوفي* لديك (*v3.0*) ↝')
 end
 if text == "اعادة التشغيل ↝" then  
 dofile("Luffy.lua") 
