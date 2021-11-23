@@ -12248,7 +12248,7 @@ keyboard.inline_keyboard = {
 {text = 'LuFFy TEαM .',url="https://t.me/lllEll2"},
 },
 {
-{text = '𝗯𝗼𝘁 𝘁𝘄𝗶𝘀𝗹',url="t.me/U41bot"},
+{text = '𝗯𝗼𝘁 𝘁𝘄𝗶𝘀𝗹',url="t.me/lllEll22bot"},
 },
 }
 local msg_id = msg.id_/2097152/0.5
