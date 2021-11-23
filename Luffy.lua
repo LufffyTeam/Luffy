@@ -9585,11 +9585,11 @@ keyboard.inline_keyboard = {
 },
 }
 local msg_id = msg.id_/2097152/0.5
-local texte = ". َ<3ٰ ٍَ:  ُꪝ ٰꫀٰᥣٰᥴٰ᥆ٰꪑٰꫀ ٰƚٰ᥆ ُႦٰ᥆ٰƚ ُ᥉ٰ᥆ٰυٰɾٰᥴٰꫀ ُꪔُᥲٰƚٰɾٰᎥٰ᥊ 'َِ◞."
+local texte = ". َ<3ٰ ٍَ: ꪝ ٰꫀٰᥣٰᥴٰ᥆ٰꪑٰꫀ ٰƚٰ᥆ ُႦٰ᥆ٰƚ ُ᥉ٰ᥆ٰυٰɾٰᥴٰꫀ 𝑙ٰ𝑢ٰ𝑓𝑓ٰ𝑦"
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id='..msg.chat_id_..'&caption='..URL.escape(texte)..'&photo='..Hussain.photos_[0].sizes_[1].photo_.persistent_id_..'&reply_to_message_id='..msg_id..'&disable_web_page_preview=true&reply_markup='..JSON.encode(keyboard)) 
 end
 else
-local texte = ". َ<3ٰ ٍَ:  ُꪝ ٰꫀٰᥣٰᥴٰ᥆ٰꪑٰꫀ ٰƚٰ᥆ ُႦٰ᥆ٰƚ ُ᥉ٰ᥆ٰυٰɾٰᥴٰꫀ ُꪔُᥲٰƚٰɾٰᎥٰ᥊ 'َِ◞."
+local texte = ". َ<3ٰ ٍَ: ꪝ ٰꫀٰᥣٰᥴٰ᥆ٰꪑٰꫀ ٰƚٰ᥆ ُႦٰ᥆ٰƚ ُ᥉ٰ᥆ٰυٰɾٰᥴٰꫀ 𝑙ٰ𝑢ٰ𝑓𝑓ٰ𝑦"
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
